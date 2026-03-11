@@ -2,6 +2,9 @@
 
 This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 
+## 🚀 Live Website
+[![Live Website](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://github.com/Dhirajkumar-ux/Dhirajportfolio.in/tree/main)
+
 ## 📌 Features
 - 🏠 Home Section
 - 👨‍💻 About Me
